@@ -4,7 +4,7 @@ is a Python script that allows you to easily swap regions of an image with other
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/beephole/frameMockupGen/assets/118709832/dee2b23d-810a-4b13-a238-7d418b2e0423
 
 
 ## Features
@@ -52,7 +52,8 @@ python frame_swapper.py
 
 ### Sample Results
 
-Insert gif or link to demo
+![Screenshot 2023-09-05 182602](https://github.com/beephole/frameMockupGen/assets/118709832/c965df82-afab-4277-9113-2ff124afcbe3)
+
 
 # Hi, I'm Beephole! 👋
 
